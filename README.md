@@ -43,12 +43,6 @@ Các phân tích và biểu đồ trực quan hóa:
 .
 ├── notebooks/            # Jupyter notebooks cho phân tích
 │   └── dialect_analysis.ipynb  # Notebook chính cho phân tích dữ liệu
-├── results/              # Thư mục chứa kết quả trực quan hóa
-│   ├── region_distribution.html      # Biểu đồ phân bố vùng miền
-│   ├── gender_distribution.html      # Biểu đồ phân bố giới tính
-│   ├── audio_length_by_region.html   # Biểu đồ độ dài audio
-│   ├── word_count_by_region.html     # Biểu đồ số lượng từ
-│   └── region_comparison.html        # Biểu đồ so sánh tổng hợp
 ├── requirements.txt      # Danh sách các thư viện cần thiết
 └── README.md            # Tài liệu hướng dẫn
 ```
